@@ -1,8 +1,8 @@
-#Bank Account Management System :-
+# Bank Account Management System :-
         A simple Python CLI app for managing bank accounts with data stored in a JSON file.
 
 
-#Features :-
+# Features :-
         (1) Create account (18+ only)
         (2) Deposit / Withdraw (with PIN auth)
         (3) View & update details
@@ -10,15 +10,15 @@
         (5) Data saved in data.json
 
 
-#Run the App :-
+# Run the App :-
         python main.py
 
 
-#Requirements :-
+# Requirements :-
         Python 3.x
 
 
-#Data Format (Example) :-
+# Data Format (Example) :-
         {
           "name": "John",
           "age": 25,
@@ -29,9 +29,10 @@
         }
 
 
-#To-Do :-
+# To-Do :-
         1. Add password encryption
         2. Use a database
         3. Improve error handling
 
         
+
